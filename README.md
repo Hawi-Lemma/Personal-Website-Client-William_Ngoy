@@ -72,8 +72,8 @@ This site can be deployed to any static hosting service:
 ## 📖 Usage
 
 - **Navigation**: Use the sticky navigation bar to jump between sections
-- **Resume Download**: Click the "Download Resume" button and select language
-- **Portfolio**: Browse projects and use filters if implemented
+- **Resume Download**: Click the "Download Resume" button 
+- **Portfolio**: Browse projects 
 - **Contact**: Use social media links or contact form
 
 ## 🎨 Customization
@@ -101,11 +101,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-William Lukumbi
-- Email: start.newprojet@gmail.com
-- Phone: +90 533 8580399
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+Hawi A Lemma
+- Email: lemma.cor@gmail.com
+- LinkedIn: [\[Your LinkedIn Profile\]](https://www.linkedin.com/in/hawilemma/)
+- GitHub: [\[Your GitHub Profile\]](https://github.com/Hawi-Lemma)
 
 ---
 

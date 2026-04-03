@@ -103,8 +103,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Hawi A Lemma
 - Email: lemma.cor@gmail.com
-- LinkedIn: [\[Your LinkedIn Profile\]](https://www.linkedin.com/in/hawilemma/)
-- GitHub: [\[Your GitHub Profile\]](https://github.com/Hawi-Lemma)
+- LinkedIn: https://www.linkedin.com/in/hawilemma/
+- GitHub: https://github.com/Hawi-Lemma
 
 ---
 
